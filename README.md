@@ -4,4 +4,4 @@ Python
 <br> 
 Java
 <br> 
-Assembly Langunage
+Assembly Language
