@@ -5,10 +5,9 @@ Python
 Java
 <br> 
 Assembly Language
-</t>mount c c:/(folder name)
-<br>
-</t>tasm (name).asm
-<br>
-</t>tlink (name).obj
-<br>
-</t>name (showing the output)
+<pre>mount c c:/(folder name)
+tasm (name).asm
+tlink (name).obj
+name (showing the output)</pre>
+  
+
