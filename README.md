@@ -2,8 +2,6 @@ Collection of Codes
 <br> 
 Python
 <br> 
-Java
-<br> 
 Assembly Language
 <pre>mount c c:/(folder name)
 c:(change directory)
